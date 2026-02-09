@@ -588,7 +588,7 @@
             "en": "bulgogi"
           },
           {
-            "kr": "삼격살",
+            "kr": "삼겹살",
             "rom": "SAM-GYEOP-SAL",
             "en": "pork belly"
           },
@@ -646,6 +646,86 @@
             "kr": "문화",
             "rom": "MUN-HWA",
             "en": "culture"
+          }
+        ]
+      },
+      {
+        "name": "Restaurant Expressions",
+        "cards": [
+          {
+            "kr": "저기요",
+            "rom": "JEO-GI-YO",
+            "en": "Excuse me (calling staff)"
+          },
+          {
+            "kr": "수고하세요",
+            "rom": "SU-GO-HA-SE-YO",
+            "en": "Thank you for your hard work (when leaving)"
+          },
+          {
+            "kr": "또 올게요",
+            "rom": "TTO OL-GE-YO",
+            "en": "I'll come again"
+          },
+          {
+            "kr": "잘 먹겠습니다",
+            "rom": "JAL MEOK-GET-SEUM-NI-DA",
+            "en": "I will eat well (before meal)"
+          },
+          {
+            "kr": "잘 먹었습니다",
+            "rom": "JAL MEO-GEOT-SEUM-NI-DA",
+            "en": "I ate well (after meal)"
+          },
+          {
+            "kr": "고마워요",
+            "rom": "GO-MA-WO-YO",
+            "en": "Thank you (casual)"
+          },
+          {
+            "kr": "물티슈",
+            "rom": "MUL-TI-SYU",
+            "en": "Wet tissue"
+          },
+          {
+            "kr": "계산이요",
+            "rom": "GYE-SAN-I-YO",
+            "en": "Bill please"
+          }
+        ]
+      },
+      {
+        "name": "Ordering Phrases",
+        "cards": [
+          {
+            "kr": "아이스 하나 주세요",
+            "rom": "A-I-SEU HA-NA JU-SE-YO",
+            "en": "One iced please"
+          },
+          {
+            "kr": "따뜻한 거 주세요",
+            "rom": "TTA-TTEU-TAN GEO JU-SE-YO",
+            "en": "Hot one please"
+          },
+          {
+            "kr": "물 좀 더 주세요",
+            "rom": "MUL JOM DEO JU-SE-YO",
+            "en": "More water please"
+          },
+          {
+            "kr": "김치 좀 더 주세요",
+            "rom": "GIM-CHI JOM DEO JU-SE-YO",
+            "en": "More kimchi please"
+          },
+          {
+            "kr": "잘 몰라요",
+            "rom": "JAL MOL-LA-YO",
+            "en": "I don't know well"
+          },
+          {
+            "kr": "도와주세요",
+            "rom": "DO-WA-JU-SE-YO",
+            "en": "Please help me"
           }
         ]
       }
