@@ -149,6 +149,188 @@
           "kr": "헬스장에서",
           "rom": "HEL-SEU-JANG-E-SEO"
         }
+      },
+      {
+        "kr": "맛있었어요? 음식 어땠어요?",
+        "rom": "",
+        "en": "Was it good? How was the food?",
+        "formE": {
+          "kr": "맛있었어요? 음식 어땠어요?에",
+          "rom": ""
+        },
+        "formEseo": {
+          "kr": "맛있었어요? 음식 어땠어요?에서",
+          "rom": ""
+        }
+      },
+      {
+        "kr": "맛있었어요. 잘 먹었습니다.",
+        "rom": "",
+        "en": "It was delicious. I ate well.",
+        "formE": {
+          "kr": "맛있었어요. 잘 먹었습니다.에",
+          "rom": ""
+        },
+        "formEseo": {
+          "kr": "맛있었어요. 잘 먹었습니다.에서",
+          "rom": ""
+        }
+      },
+      {
+        "kr": "같이요? 따로요?",
+        "rom": "",
+        "en": "Together? Separate?",
+        "formE": {
+          "kr": "같이요? 따로요?에",
+          "rom": ""
+        },
+        "formEseo": {
+          "kr": "같이요? 따로요?에서",
+          "rom": ""
+        }
+      },
+      {
+        "kr": "카드요? 현금이요?",
+        "rom": "",
+        "en": "Card? Cash?",
+        "formE": {
+          "kr": "카드요? 현금이요?에",
+          "rom": ""
+        },
+        "formEseo": {
+          "kr": "카드요? 현금이요?에서",
+          "rom": ""
+        }
+      },
+      {
+        "kr": "카드로 할게요",
+        "rom": "",
+        "en": "I'll do (it) by card",
+        "formE": {
+          "kr": "카드로 할게요에",
+          "rom": ""
+        },
+        "formEseo": {
+          "kr": "카드로 할게요에서",
+          "rom": ""
+        }
+      },
+      {
+        "kr": "들어가서",
+        "rom": "deu-reo-ga-seo",
+        "en": "enter and then",
+        "formE": {
+          "kr": "들어가서에",
+          "rom": "deu-reo-ga-seo-E"
+        },
+        "formEseo": {
+          "kr": "들어가서에서",
+          "rom": "deu-reo-ga-seo-E-SEO"
+        }
+      },
+      {
+        "kr": "안녕하세요 했어요",
+        "rom": "annyeonghaseyo haesseoyo",
+        "en": "I greeted / said hello",
+        "formE": {
+          "kr": "안녕하세요 했어요에",
+          "rom": "annyeonghaseyo haesseoyo-E"
+        },
+        "formEseo": {
+          "kr": "안녕하세요 했어요에서",
+          "rom": "annyeonghaseyo haesseoyo-E-SEO"
+        }
+      },
+      {
+        "kr": "직원한테",
+        "rom": "jig-won-han-te",
+        "en": "to the staff",
+        "formE": {
+          "kr": "직원한테에",
+          "rom": "jig-won-han-te-E"
+        },
+        "formEseo": {
+          "kr": "직원한테에서",
+          "rom": "jig-won-han-te-E-SEO"
+        }
+      },
+      {
+        "kr": "라고 말했어요",
+        "rom": "ra-go mal-haesseoyo",
+        "en": "said like this",
+        "formE": {
+          "kr": "라고 말했어요에",
+          "rom": "ra-go mal-haesseoyo-E"
+        },
+        "formEseo": {
+          "kr": "라고 말했어요에서",
+          "rom": "ra-go mal-haesseoyo-E-SEO"
+        }
+      },
+      {
+        "kr": "빵도 하나 샀어요",
+        "rom": "ppang-do hana sasseoyo",
+        "en": "also bought one bread",
+        "formE": {
+          "kr": "빵도 하나 샀어요에",
+          "rom": "ppang-do hana sasseoyo-E"
+        },
+        "formEseo": {
+          "kr": "빵도 하나 샀어요에서",
+          "rom": "ppang-do hana sasseoyo-E-SEO"
+        }
+      },
+      {
+        "kr": "뜨거워서",
+        "rom": "tteu-geo-wo-seo",
+        "en": "because it's hot, so...",
+        "formE": {
+          "kr": "뜨거워서에",
+          "rom": "tteu-geo-wo-seo-E"
+        },
+        "formEseo": {
+          "kr": "뜨거워서에서",
+          "rom": "tteu-geo-wo-seo-E-SEO"
+        }
+      },
+      {
+        "kr": "조금 기다렸어요",
+        "rom": "jo-geum gi-da-ryeoss-eoyo",
+        "en": "waited a little",
+        "formE": {
+          "kr": "조금 기다렸어요에",
+          "rom": "jo-geum gi-da-ryeoss-eoyo-E"
+        },
+        "formEseo": {
+          "kr": "조금 기다렸어요에서",
+          "rom": "jo-geum gi-da-ryeoss-eoyo-E-SEO"
+        }
+      },
+      {
+        "kr": "달아서 맛있었어요",
+        "rom": "da-ra-seo mas-iss-eoss-eoyo",
+        "en": "sweet, so it was delicious",
+        "formE": {
+          "kr": "달아서 맛있었어요에",
+          "rom": "da-ra-seo mas-iss-eoss-eoyo-E"
+        },
+        "formEseo": {
+          "kr": "달아서 맛있었어요에서",
+          "rom": "da-ra-seo mas-iss-eoss-eoyo-E-SEO"
+        }
+      },
+      {
+        "kr": "잘 먹겠습니다",
+        "rom": "jal meok-get-seum-ni-da",
+        "en": "I will eat well",
+        "formE": {
+          "kr": "잘 먹겠습니다에",
+          "rom": "jal meok-get-seum-ni-da-E"
+        },
+        "formEseo": {
+          "kr": "잘 먹겠습니다에서",
+          "rom": "jal meok-get-seum-ni-da-E-SEO"
+        }
       }
     ],
     "objects": [
@@ -199,6 +381,24 @@
         "rom": "CHAEK",
         "en": "book",
         "category": "thing"
+      },
+      {
+        "kr": "연어",
+        "rom": "yeo-neo",
+        "en": "salmon",
+        "category": "general"
+      },
+      {
+        "kr": "비싸요",
+        "rom": "bi-ssa-yo",
+        "en": "expensive",
+        "category": "general"
+      },
+      {
+        "kr": "매일",
+        "rom": "mae-il",
+        "en": "every day",
+        "category": "general"
       }
     ],
     "verbs": [
@@ -391,6 +591,24 @@
         "rom": "UN-DONG",
         "en": "Exercise",
         "category": "activity"
+      },
+      {
+        "kr": "연어",
+        "rom": "yeo-neo",
+        "en": "Salmon",
+        "category": "general"
+      },
+      {
+        "kr": "비싸요",
+        "rom": "bi-ssa-yo",
+        "en": "Expensive",
+        "category": "general"
+      },
+      {
+        "kr": "매일",
+        "rom": "mae-il",
+        "en": "Every day",
+        "category": "general"
       }
     ],
     "adjectives": [
@@ -516,6 +734,16 @@
         "en": "fun",
         "compatibleSubjects": [
           "activity"
+        ]
+      },
+      {
+        "id": "warm",
+        "kr": "따뜻한",
+        "rom": "",
+        "en": "warm",
+        "compatibleSubjects": [
+          "food",
+          "drink"
         ]
       }
     ],
